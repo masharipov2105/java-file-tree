@@ -1,9 +1,11 @@
 package com.masharipov2105.systems;
 
+import com.masharipov2105.systems.util.TreeGenerator;
+
 public class Main {
     
     public static void main(String[] args) {
     
-        System.out.println(TreeGenerator.generate("/home/masharipov2105/Documents/o'rganish/java/console-calculator-app", false, 0));
+        //System.out.println(TreeGenerator.generate("enter local folder path", false, 0));
     }
 }

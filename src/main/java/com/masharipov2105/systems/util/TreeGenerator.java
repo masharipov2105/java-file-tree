@@ -1,4 +1,4 @@
-package com.masharipov2105.systems;
+package com.masharipov2105.systems.util;
 
 import java.util.ArrayList;
 import java.io.File;
@@ -112,6 +112,6 @@ public final class TreeGenerator{
                 }
             }
         }
-        return finalResult;
+        return finalResult.stripTrailing();
 	}
 }

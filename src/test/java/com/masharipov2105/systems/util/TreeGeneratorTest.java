@@ -44,6 +44,6 @@ public class TreeGeneratorTest{
 		String result = TreeGenerator.generate(sampleDir.toString(), false, 0);
 
 		assertEquals(fileResult(), result);
-
+		//System.out.print(result);
 	}
 }

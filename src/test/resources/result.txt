@@ -1,0 +1,17 @@
+example-tree/
+├── level1-a/
+│   ├── level2-a/
+│   │   ├── level3-a/
+│   │   │   └── file6.txt
+│   │   └── file5.txt
+│   ├── level2-b/
+│   │   └── file7.txt
+│   ├── file3.txt
+│   └── file4.md
+├── level1-b/
+│   ├── level2-c/
+│   │   ├── file10.txt
+│   │   └── file9.txt
+│   └── file8.txt
+├── file1.txt
+└── file2.pdf
